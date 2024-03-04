@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import PhotoImage
 
 
-openai.api_key = "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"
+openai.api_key = "chave api"
 
 
 root = tk.Tk()
